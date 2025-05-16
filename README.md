@@ -31,3 +31,7 @@ This multimedia project explores the realities of online dating, focusing on exp
 * Analyze the impact of COVID-19 on romantic behavior and dating app usage.
 * Explore why New York City consistently ranks poorly as a place for singles.
 * Present insights in an engaging, accessible multimedia format.
+
+### Reflections and Next Steps
+With more time, it would be valuable to explore how dating app experiences differ across New York’s diverse neighborhoods and communities. Adding personal stories would also help bring the data to life. For now, the numbers make one thing clear: finding love in New York City is anything but easy, and dating apps are no guaranteed shortcut to happily ever after.
+

@@ -24,6 +24,8 @@ This multimedia project explores the realities of online dating, focusing on exp
 * **Data Visualization**:
 
   * All visual elements were created using **Datawrapper**.
+  * Images were taken from Pexels, credits to cottonbro studio
+
 
 ### 🎯 Goals
 
